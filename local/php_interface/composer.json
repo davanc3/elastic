@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Elastic\\": "classes"
+        }
+    },
+    "require": {
+        "elasticsearch/elasticsearch": "^5.5"
+    }
+}
